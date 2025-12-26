@@ -1,0 +1,8 @@
+{
+  "name": "QuizPro AI",
+  "description": "A production-grade, full-stack quiz management system for teachers and students with AI-powered question generation, real-time analytics, and role-based access control.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
